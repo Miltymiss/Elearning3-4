@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="permission_hint">请允许使用[存储空间]权限!</string>
+</resources>
